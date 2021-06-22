@@ -1,1 +1,1 @@
-# TB_CS - TB Case Surveillance - Tracker
+# TB Case Surveillance - Tracker metadata package
