@@ -1,4 +1,4 @@
-# TB Case Surveillance Tracker Installation Guide
+# TB Case Surveillance Tracker Installation Guide { #tb-cs-tracker-installation }
 
 Last updated 04/08/2020
 
