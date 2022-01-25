@@ -283,16 +283,19 @@ TB Case Surveillance Tracker package includes a set of tests and a list of drugs
 
 ## Analytics and program indicators
 
-This section describes the program indicators and analytics that have been configured for an analytics user.
-
-### Program indicators
-
-* Program indicators aggregating
-* Specific program indicators for case-based systems [defined in the draft spec]
-
 ### Reporting case-based data into aggregate TB reports
 
 The TB case-based surveillance tracker captures data that can be fed into standard, aggregate reporting (i.e. monthly, quarterly, or more frequently as determined by the country). An aggregate TB system design in DHIS2 can be accessed at [who.dhis2.org/documentation/#tb](https://who.dhis2.org/documentation/#tb).
+
+The package includes a set of program indicators that are mapped to the corresponding data elements and category option combinations of the data sets in the TB aggregate package. The mapping is based on codes of metadata objects.
+
+The custom attribute **Data element for aggregate data export** `vudyDP7jUy5` contains the reference code of the aggregate data elements.
+The **Category option combination for agggregate export** field contains reference codes of the category option combinations.
+
+The suggested transfer of the tracker-to-aggregate values is based on the following GET and POST API requests:
+
+1. Source request: `../api/analytics/dataValueSet.json?dimension=dx:` "{program indicator uid/s}" `&dimension=pe:` "{relative period/s}" `&dimension=ou:` {organisation unit level} `&outputIdScheme=ATTRIBUTE:` {"custom attribute:`vudyDP7jUy5`"}
+2. Target request: `..api/dataValueSets?dataElementIdScheme=CODE&categoryOptionComboIdScheme=CODE&importStrategy=CREATE_AND_UPDATE&mergeMode=REPLACE&dryRun=false`
 
 In addition, the package comes with a set of indicators that can be fed into a GTB Report form.
 
