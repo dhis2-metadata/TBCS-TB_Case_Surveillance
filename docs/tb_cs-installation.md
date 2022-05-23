@@ -1,4 +1,4 @@
-# TB Case Surveillance Tracker Installation Guide { #tb-cs-tracker-installation }
+# TB Case Surveillance Tracker Installation Guide { #tb-cs-installation }
 
 Package Version 1.0.1
 
