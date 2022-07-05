@@ -1,1 +1,312 @@
-
+{
+    "trackedEntityInstanceFilters": [
+        {
+            "code": "TBCS00_ALL_ACTIVE_ENROLLMENTS",
+            "lastUpdated": "2022-01-12T11:36:28.462",
+            "id": "DDYEZxtXUoJ",
+            "href": "https://metadata.dev.dhis2.org/tracker_dev/api/trackedEntityInstanceFilters/DDYEZxtXUoJ",
+            "created": "2021-09-27T16:22:50.955",
+            "name": "All current TB patients",
+            "displayName": "All current TB patients",
+            "description": "This provides a list of all patients registered in the system who are currently being followed for TB (regardless of treatment initiation status and patients waiting for treatment outcome).",
+            "externalAccess": false,
+            "displayDescription": "This provides a list of all patients registered in the system who are currently being followed for TB (regardless of treatment initiation status and patients waiting for treatment outcome).",
+            "sharing": {
+                "external": false,
+                "users": {},
+                "userGroups": {}
+            },
+            "followup": false,
+            "enrollmentStatus": "ACTIVE",
+            "sortOrder": 1,
+            "favorite": false,
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "program": {
+                "id": "Lt6P15ps7f6"
+            },
+            "lastUpdatedBy": {
+                "displayName": "Admin Translation",
+                "name": "Admin Translation",
+                "id": "rlOFXtzW2jS",
+                "username": "translation_admin"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Cela fournit une liste de tous les patients enregistrés dans le système qui sont actuellement suivis pour la tuberculose (indépendamment du statut d'initiation du traitement et des patients en attente de l'issue du traitement)."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Tous les patients TB actuel"
+                }
+            ],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "eventFilters": [
+                {
+                    "assignedUsers": []
+                }
+            ],
+            "userAccesses": []
+        },
+        {
+            "code": "TBCS00_ENROLLMENT_PENDING",
+            "lastUpdated": "2022-01-12T11:39:42.773",
+            "id": "Q8v3oAYr09t",
+            "href": "https://metadata.dev.dhis2.org/tracker_dev/api/trackedEntityInstanceFilters/Q8v3oAYr09t",
+            "created": "2021-09-27T16:22:50.955",
+            "name": "Enrollment completion pending",
+            "displayName": "Enrollment completion pending",
+            "description": "This provides a list of TB patients who have an outcome recorded, but the enrollment has not yet been completed in systems. Please click on the “complete” button in the Enrollment section.",
+            "externalAccess": false,
+            "displayDescription": "This provides a list of TB patients who have an outcome recorded, but the enrollment has not yet been completed in systems. Please click on the “complete” button in the Enrollment section.",
+            "sharing": {
+                "external": false,
+                "users": {},
+                "userGroups": {}
+            },
+            "followup": false,
+            "enrollmentStatus": "ACTIVE",
+            "sortOrder": 4,
+            "favorite": false,
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "program": {
+                "id": "Lt6P15ps7f6"
+            },
+            "lastUpdatedBy": {
+                "displayName": "Admin Translation",
+                "name": "Admin Translation",
+                "id": "rlOFXtzW2jS",
+                "username": "translation_admin"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Fin de l'inscription en attente"
+                },
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Cela fournit une liste de patients tuberculeux dont l'issue a été enregistré, mais dont l'inscription n'est pas encore terminée dans les systèmes. Veuillez cliquer sur le bouton \"Terminer\" dans la section Inscription."
+                }
+            ],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "eventFilters": [
+                {
+                    "programStage": "UZn8sMwz7Nm",
+                    "eventStatus": "COMPLETED",
+                    "eventCreatedPeriod": {
+                        "periodTo": 10,
+                        "periodFrom": -2000
+                    },
+                    "assignedUsers": []
+                }
+            ],
+            "userAccesses": []
+        },
+        {
+            "code": "TBCS00_LAB_RESULTS_PENDING",
+            "lastUpdated": "2022-05-12T11:06:50.057",
+            "id": "fIq6rYpAaKi",
+            "href": "https://metadata.dev.dhis2.org/tracker_dev/api/trackedEntityInstanceFilters/fIq6rYpAaKi",
+            "created": "2022-05-12T11:03:05.959",
+            "name": "Lab results pending",
+            "displayName": "Lab results pending",
+            "description": "This provides a list of patients with pending lab results",
+            "externalAccess": false,
+            "displayDescription": "This provides a list of patients with pending lab results",
+            "sharing": {
+                "external": false,
+                "users": {},
+                "userGroups": {}
+            },
+            "followup": false,
+            "enrollmentStatus": "ACTIVE",
+            "sortOrder": 5,
+            "favorite": false,
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "program": {
+                "id": "Lt6P15ps7f6"
+            },
+            "lastUpdatedBy": {
+                "displayName": "Yury Rogachev",
+                "name": "Yury Rogachev",
+                "id": "TO0FdMtKS8m",
+                "username": "yury"
+            },
+            "favorites": [],
+            "translations": [],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "eventFilters": [
+                {
+                    "programStage": "mPdMZNWVrOQ",
+                    "eventStatus": "ACTIVE",
+                    "eventCreatedPeriod": {
+                        "periodTo": -14,
+                        "periodFrom": -100
+                    },
+                    "assignedUsers": []
+                }
+            ],
+            "userAccesses": []
+        },
+        {
+            "code": "TBCS00_NO_OUTCOME",
+            "lastUpdated": "2022-01-12T11:36:29.699",
+            "id": "mrhsMwDhxfc",
+            "href": "https://metadata.dev.dhis2.org/tracker_dev/api/trackedEntityInstanceFilters/mrhsMwDhxfc",
+            "created": "2021-09-27T16:22:50.955",
+            "name": "Outcome record missing",
+            "displayName": "Outcome record missing",
+            "description": "This provides a list of TB patients where an outcome is expected, but is not yet entered in the system. Please enter the outcome for these patients.",
+            "externalAccess": false,
+            "displayDescription": "This provides a list of TB patients where an outcome is expected, but is not yet entered in the system. Please enter the outcome for these patients.",
+            "sharing": {
+                "external": false,
+                "users": {},
+                "userGroups": {}
+            },
+            "followup": false,
+            "enrollmentStatus": "ACTIVE",
+            "sortOrder": 3,
+            "favorite": false,
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "program": {
+                "id": "Lt6P15ps7f6"
+            },
+            "lastUpdatedBy": {
+                "displayName": "Admin Translation",
+                "name": "Admin Translation",
+                "id": "rlOFXtzW2jS",
+                "username": "translation_admin"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Cela fournit une liste de patients tuberculeux pour lesquels un issue est attendu, mais qui n'est pas encore saisi dans le système. Veuillez saisir l'issue pour ces patients."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Enregistrement des issues manquant"
+                }
+            ],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "eventFilters": [
+                {
+                    "programStage": "UZn8sMwz7Nm",
+                    "eventStatus": "SCHEDULE",
+                    "eventCreatedPeriod": {
+                        "periodTo": 300,
+                        "periodFrom": -300
+                    },
+                    "assignedUsers": []
+                }
+            ],
+            "userAccesses": []
+        },
+        {
+            "code": "TBCS00_NOT_STARTED_TREATMENT",
+            "lastUpdated": "2022-01-12T11:39:43.392",
+            "id": "xOeDy8UoNoL",
+            "href": "https://metadata.dev.dhis2.org/tracker_dev/api/trackedEntityInstanceFilters/xOeDy8UoNoL",
+            "created": "2021-09-27T16:22:50.955",
+            "name": "Treatment initiation pending",
+            "displayName": "Treatment initiation pending",
+            "description": "This provides a list of patients who have been diagnosed with TB and who have not yet started treatment. Please follow-up with these patients and start treatment.",
+            "externalAccess": false,
+            "displayDescription": "This provides a list of patients who have been diagnosed with TB and who have not yet started treatment. Please follow-up with these patients and start treatment.",
+            "sharing": {
+                "external": false,
+                "users": {},
+                "userGroups": {}
+            },
+            "followup": false,
+            "enrollmentStatus": "ACTIVE",
+            "sortOrder": 2,
+            "favorite": false,
+            "access": {
+                "read": true,
+                "update": true,
+                "externalize": true,
+                "delete": true,
+                "write": true,
+                "manage": true
+            },
+            "program": {
+                "id": "Lt6P15ps7f6"
+            },
+            "lastUpdatedBy": {
+                "displayName": "Admin Translation",
+                "name": "Admin Translation",
+                "id": "rlOFXtzW2jS",
+                "username": "translation_admin"
+            },
+            "favorites": [],
+            "translations": [
+                {
+                    "property": "DESCRIPTION",
+                    "locale": "fr",
+                    "value": "Cela fournit une liste de patients qui ont été diagnostiqués avec la tuberculose et qui n'ont pas encore commencé le traitement. Veuillez suivre ces patients et commencer le traitement."
+                },
+                {
+                    "property": "NAME",
+                    "locale": "fr",
+                    "value": "Traitement initial entamé"
+                }
+            ],
+            "userGroupAccesses": [],
+            "attributeValues": [],
+            "eventFilters": [
+                {
+                    "programStage": "RB3a5MXMe8g",
+                    "eventStatus": "SCHEDULE",
+                    "eventCreatedPeriod": {
+                        "periodTo": 100,
+                        "periodFrom": -100
+                    },
+                    "assignedUsers": []
+                }
+            ],
+            "userAccesses": []
+        }
+    ]
+}
