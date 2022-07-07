@@ -281,6 +281,10 @@ You must configure tracker capture dashboard after the package has been installe
 * Click **Save**
 * Return to the **Settings** menu. Click **Saved dashboard layout as default**. Lock layout for all users.
 
+### Program notifications
+
+TB CS Tracker 2.0.0 includes 4 notification templates that can be edited based on local requirements. Additional configuration for setting up SMS or email notifications is required.
+
 ### Reporting case-based data into aggregate data sets
 
 The TB case-based surveillance tracker captures data that can be fed into standard, aggregate reporting (i.e. monthly, quarterly, yearly or as determined by the country). Aggregate DHIS2 TB HMIS system design can be accessed at [https://dhis2.org/metadata-package-downloads/#tb](https://dhis2.org/metadata-package-downloads/#tb)
