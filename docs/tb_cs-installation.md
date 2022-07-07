@@ -151,7 +151,7 @@ A third and more complicated approach is to modify the .json file to re-use exis
 * the approach does not work for all types of objects. In particular, certain types of objects have dependencies which are complicated to solve in this way, for example related to disaggregations.
 * future updates to the configuration package will be complicated.
 
-#### Upgrading earlier versions of TB CS Tracker program
+### Upgrading earlier versions of TB CS Tracker program
 
 This section provides guidance on upgrading earlier versions of TB CS tracker (eg. versions 1.0.0 or 1.0.1).
 
