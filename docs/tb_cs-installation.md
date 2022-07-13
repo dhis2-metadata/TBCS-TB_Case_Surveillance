@@ -115,6 +115,8 @@ Make sure that no options within an option set have the same sort order. This ca
 
 `../api/options.json?paging=false&fields=id,name,sortOrder&filter=optionSet.id:in:[<optionSet UID>]`
 
+In order to fix sort order in option sets containing large numbers of options, please refer to this [SQL script](https://github.com/dhis2/dhis2-utils/blob/master/resources/sql/clean_up_option_sort_order.sql).
+
 ### Visualizations using Root Organisation Unit UID
 
 Visualizations, event reports, report tables and maps that are assigned to a specific organisation unit level or organisation unit group, have a reference to the root (level 1) organisation unit. Such objects, if present in the metadata file, contain a placeholder `<OU_ROOT_UID>`. Use the search function in the .json file editor to possibly identify this placeholder and replace it with the UID of the level 1 organisation unit in the target instance.
@@ -155,7 +157,7 @@ A third and more complicated approach is to modify the .json file to re-use exis
 
 This section provides guidance on upgrading earlier versions of TB CS tracker (eg. versions 1.0.0 or 1.0.1).
 
-For existing implementations, direct upgrade of metadata packages in the instane is not recommended.
+For existing implementations, direct upgrade of metadata packages in the instance is not recommended.
 
 Use the following steps before choosing the best upgrade strategy:
 
