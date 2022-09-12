@@ -26,11 +26,11 @@ The revised TB CS tracker program has been designed to reflect a **more generic 
 >
 > Please note that given the generic design of the tracker, this system design guide contains throughout the sections useful information, considerations, and justifications that can be of great importance for the implementation. The document should therefore be thoroughly revised both by the requesting and implementing parties.
 
-![Theoretical workflow](resources/image/tb_cs_001.png)
+![Theoretical workflow](resources/images/tb_cs_001.png)
 
 Following this initial workflow, the program has been structured as follows:
 
-![Data flow within the tracker stages](resources/image/tb_cs_029.png)
+![Data flow within the tracker stages](resources/images/tb_cs_029.png)
 
 ### Rationale for Program Structure
 
@@ -82,7 +82,7 @@ This document is intended for audiences responsible for implementing TB data sys
 
 When a client is enrolled in the TB case surveillance as a tracked entity instance (TEI), TEI attributes are recorded to form the case profile.
 
-![Enrollment stage](resources/image/tb_cs_003.png)
+![Enrollment stage](resources/images/tb_cs_003.png)
 
 **The enrollment date has been set up as a placeholder** allowing the users to utilize it according to the needs of implementation. It can be used as date of registration in DHIS2 or as date of first consultation, visit or investigation. When enrolling confirmed TB cases only, it is possible to keep using enrollment date as date of diagnosis. In this case, the Laboratory tracker should be isolated from the TB case surveillance module and set up as a separate program.
 
@@ -95,7 +95,7 @@ The next stages can therefore be the “Diagnostic Laboratory Results” or the 
 
 #### Diagnostic Laboratory Results
 
-![Diagnostic test stage](resources/image/tb_cs_004.png)
+![Diagnostic test stage](resources/images/tb_cs_004.png)
 
 The full list of diagnostic tests will automatically appear only if the sample is flagged as received and if the quality is good.
 The stage includes the following tests:
@@ -117,9 +117,9 @@ The stage includes the following tests:
 
 As an example of the data entry for two of the tests:
 
-![Smear microscopy](resources/image/tb_cs_005.png)
+![Smear microscopy](resources/images/tb_cs_005.png)
 
-![Xpert MTB/RIF](resources/image/tb_cs_006.png)
+![Xpert MTB/RIF](resources/images/tb_cs_006.png)
 
 **Date of test results** (including inoculation date for culture tests) has to be provided for each test. The purpose of this is to:
 
@@ -158,22 +158,22 @@ According to current tracker design, the Diagnosis and notification event may be
 
 The registration stage provides an overview of the baseline information, the eventual risk factors, whether the suspected case is HIV(+), and, most importantly, the section on diagnostic decisions.
 
-![Baseline info](resources/image/tb_cs_007.png)
+![Baseline info](resources/images/tb_cs_007.png)
 
 The system will **automatically provide a warning message with the definition of the selected history of previous treatment**. The definitions have been set as per the WHO global guidelines and should be adapted to the local context.
 A question on whether the patient has ever received 2nd line treatment before will appear should “Relapse”, “Treatment after failure or LTFU”, or “Other previously treated” is selected as history.
 
-![Baseline info for 2nd line treatment](resources/image/tb_cs_079.png)
+![Baseline info for 2nd line treatment](resources/images/tb_cs_079.png)
 
-![Risk factors and HIV status](resources/image/tb_cs_008.png)
+![Risk factors and HIV status](resources/images/tb_cs_008.png)
 
 In case of confirmed seropositivity of the patient the system will prompt an expansion of the HIV information and will request the date of the last test and whether the patient is enrolled in an ART cohort. If the latest HIV test date is **older than 6 months** from the date of diagnosis, a warning message will prompt the clinician to schedule another HIV test for the patient.
 
 At this point, if the laboratory results are available, the clinician/data entry clerk should be able to report the diagnostic decision.
 
-![Diagnosis of a suspected case](resources/image/tb_cs_080.png)
+![Diagnosis of a suspected case](resources/images/tb_cs_080.png)
 
-![Diagnosis](resources/image/tb_cs_009.png)
+![Diagnosis](resources/images/tb_cs_009.png)
 
 Once **the case is notified**, the user needs to fill in the fields in the Diagnostic decision section.
 
@@ -183,25 +183,25 @@ A **notification is sent to the patient** if the “Notify the case?” checkbox
 
 If the test results are negative but the case is **diagnosed clinically**, the patient can be notified as “clinically diagnosed”.
 
-![Clinical diagnosis](resources/image/tb_cs_010.png)
+![Clinical diagnosis](resources/images/tb_cs_010.png)
 
 If the laboratory **results are negative and no notification is necessary**, the user should tick “NO” in the “Do you want to notify the case?”. Once the case has been denotified for any reason, the case is excluded from analysis of TB cases.
 
 **An SMS is sent to the patient if the case is denotified**, the reason for denotification is “Not a TB Case” and the patient’s telephone number is registered in the system.
 
-![Denotification](resources/image/tb_cs_011.png)
+![Denotification](resources/images/tb_cs_011.png)
 
 Once a suspected case is bacteriologically confirmed or clinically diagnosed, they should receive a **TB registration number**. This information is also highlighted as a **reminder in the Feedback** window on the top right corner of the data entry screen just above the enrollment information. The clinician/data entry clerk should therefore reopen the enrollment window and assign a TB registration number according to the national guidelines. Although the default configuration leaves this space blank and editable, implementers might want to consider if an automatic assignment of a number (or alphanumeric sequence) would be appropriate as per the local workflow.
 
-![TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/image/tb_cs_019.png)
+![TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/images/tb_cs_019.png)
 
 The same info will also appear as an **error message** under the “Date of diagnosis” as a reminder to assign a Tb registration number to the newly identified case.
 
-![Error message for the TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/image/tb_cs_020.png)
+![Error message for the TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/images/tb_cs_020.png)
 
 #### Treatment
 
-![Treatment](resources/image/tb_cs_012.png)
+![Treatment](resources/images/tb_cs_012.png)
 
 In this stage the clinician/data entry clerk will report the **regimen of the patient**. As the tests did not detect any resistance, the patient is automatically assigned the DS (drug susceptible) option. The clinician can tick the box in the section to overwrite the automatic assignment and manually assign the right classification according to their clinical opinion. The automatic classification could also be completely removed, which will in turn compel the clinician to manually assign a classification based on the laboratory results for every patient.
 
@@ -225,7 +225,7 @@ Depending on the amount of time passed since the enrollment, the clinician/data 
 
 **The number of months has been set as placeholder** while following the global guidelines, though the value should be updated according to the relevant national guidelines. Every outcome will automatically display a warning box with the definition of the chosen option. The definitions follow the standard explanation detailed in the WHO guidelines. Similarly, the definitions should also be replaced or expanded based on the ones present in the national guidelines.
 
-![Outcome](resources/image/tb_cs_014.png)
+![Outcome](resources/images/tb_cs_014.png)
 
 ## Additional Features
 
@@ -242,7 +242,7 @@ Should the system be used for real time data entry and surveillance, there are f
 
 The package includes a **set of tests and a list of drugs that can be modified** by the implementing country according to national context (e.g. which drugs and tests are used/available in the country). The use of constants enables a system admin in an implementing country to easily _‘turn on’ or ‘turn off’_ types of drugs and tests depending on availability in the country. When the complete package is installed into a DHIS2 instance, all data elements for all tests and drugs included in this package are included in the system. By default, all constants are set to ‘1’ (enabling the related data elements for data entry) and can be configured to ‘0’ by an implementer or system admin according to country context if not needed (disabling the related data elements for data entry). If a test or drug later becomes available in the country, an admin can simply re-enable the data elements by changing the constant from a value of ‘0’ to a value of ‘1’.
 
-![Example of a constant](resources/image/tb_cs_018.png)
+![Example of a constant](resources/images/tb_cs_018.png)
 
 ### Top Bar Widget
 
@@ -250,13 +250,13 @@ The top bar widget **can be either displayed or hidden**. In the default configu
 
 The order, the amount of info to be displayed, and the variables to display can be customized locally.
 
-![Top bar info](resources/image/tb_cs_015.png)
+![Top bar info](resources/images/tb_cs_015.png)
 
 ### Feedback Widget
 
 Upon the completion of the enrollment process, the feedback text box will be displayed and available on the **top right corner of the screen**. Just like the other widgets, t**he feedback box can be removed**, though in the default configuration of the tracker it is displayed and used to flash important messages and notes to the user entering the data.
 
-![Feedback text box](resources/image/tb_cs_016.png)
+![Feedback text box](resources/images/tb_cs_016.png)
 
 ## Analytics
 
