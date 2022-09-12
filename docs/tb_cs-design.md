@@ -1,5 +1,5 @@
 
-# TB Case Surveillance Program (Tracker) { #tb-cs-design }
+# TB Case Surveillance Program (Tracker)
 
 ## Summary
 
