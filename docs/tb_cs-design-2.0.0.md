@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **TB Case Surveillance (TB CS) Tracker digital data package for DHIS2** is based on the [**WHO recording and reporting framework**](https://apps.who.int/iris/handle/10665/79199) from 2013. It provides a set of recommended metadata (data elements, program rules, etc) to enable electronic capture of individual/case-based TB surveillance data. The tracker metadata is configured to ensure that aggregated standard quarterly TB report indicators on notifications, first-line outcomes and second-line outcomes as defined by the WHO Definitions and reporting framework for TB (2013) can be automatically generated from the individual data captured. The TB Case Surveillance Tracker is not intended to support patient management or patient care. This requires more detailed analysis of roles, responsibilities, workflows and decision-making within the settings in which such systems would be implemented.
+The **TB Case Surveillance Tracker (TB-CS) digital data package for DHIS2** is based on the [**WHO recording and reporting framework**](https://apps.who.int/iris/handle/10665/79199) from 2013. It provides a set of recommended metadata (data elements, program rules, etc) to enable electronic capture of individual/case-based TB surveillance data. The tracker metadata is configured to ensure that aggregated standard quarterly TB report indicators on notifications, first-line outcomes and second-line outcomes as defined by the WHO Definitions and reporting framework for TB (2013) can be automatically generated from the individual data captured. The TB Case Surveillance Tracker is not intended to support patient management or patient care. This requires more detailed analysis of roles, responsibilities, workflows and decision-making within the settings in which such systems would be implemented.
 
 The system design document explains how the tracker program was configured to meet the data entry and analysis requirements and support a typical workflow. The document does not include an exhaustive listing of all metadata captured. This document also does not consider the resources and infrastructure needed to implement such a system, such as servers, power, internet connections, backups, training and user support. More information on the TB programme technical aspects informing this system design is available in the [**WHO publication on electronic recording and reporting for tuberculosis care and control**](http://www.who.int/tb/publications/electronic_recording_reporting/en/). Supplementary implementation guidance for DHIS2 can be found in the [**General DHIS2 Implementation Guide**](https://docs.dhis2.org/en/implement/configuring-the-android-app/about-this-guide.html) and [**DHIS2 tracker implementation guide**](https://docs.dhis2.org/en/implement/understanding-dhis2-implementation/a-quick-guide-to-dhis2-implementation.html).
 
@@ -100,20 +100,20 @@ The next stages can therefore be the “Diagnostic Laboratory Results” or the 
 The full list of diagnostic tests will automatically appear only if the sample is flagged as received and if the quality is good.
 The stage includes the following tests:
 
-- Sputum smear microscopy,
-- TB-LAMP,
-- LF-LAM,
-- Xpert MTB/RIF,
-- Xpert MTB/RIF Ultra,
-- Truenat,
-- Culture in solid media (e.g. LJ),
-- Culture in liquid media (e.g. MGIT),
-- Initial phenotypic DST in solid media (e.g. LJ),
-- Initial phenotypic DST in liquid media (e.g. MGIT),
-- Subsequent phenotypic DST in solid media (e.g. LJ),
-- Subsequent phenotypic DST in liquid media (e.g. MGIT),
-- First-line LPA,
-- Second-line LPA.
+- Sputum smear microscopy;
+- TB-LAMP;
+- LF-LAM;
+- Xpert MTB/RIF;
+- Xpert MTB/RIF Ultra;
+- Truenat;
+- Culture in solid media (e.g. LJ);
+- Culture in liquid media (e.g. MGIT);
+- Initial phenotypic DST in solid media (e.g. LJ);
+- Initial phenotypic DST in liquid media (e.g. MGIT);
+- Subsequent phenotypic DST in solid media (e.g. LJ);
+- Subsequent phenotypic DST in liquid media (e.g. MGIT);
+- First-line LPA;
+- Second-line LPA
 
 As an example of the data entry for two of the tests:
 
@@ -136,8 +136,8 @@ Record test results for the applicable test in the data entry form.
 - 1 sample - 1 microscopy and 1 Xpert MTB/RIF test:
 Record microscopy and Xpert MTB/RIF results in the data entry form.
 
-- 1 sample - 2 repeated microscopy tests, where test 1 is invalid and test 2 is valid.
-Record test 2 results in the data entry form only.
+- 1 sample - 2 repeated microscopy tests, where test 1 is invalid and test 2 is valid:
+Record results of test 2 (valid test result) in the data entry form.
 
 This recommendation minimizes the data entry workload, and aligns with the basic requirement of not using tracker as a lab management tool.
 
@@ -146,11 +146,11 @@ If the local needs request a more detailed collection of samples tested independ
 
 **Implementers should therefore investigate the analytic needs of the implementing country and adjust the indicators related to the number of tests and results accordingly.**
 
-#### Diagnosis and notification
+#### Diagnosis and Notification
 
-According to current tracker design, the Diagnosis and notification event may be created before or after the Diagnostic laboratory results event.
+According to current tracker design, the Diagnosis and Notification event may be created before or after the Diagnostic laboratory Results event.
 
-**The registration event date is a placeholder** that can be utilized according to the implementation needs. It can be used as the date of initial visit, consultation or sample collection.
+**The Diagnosis and Notification event date is a placeholder** that can be utilized according to the implementation needs. It can be used as the date of initial visit, consultation or sample collection.
 
 > **IMPORTANT**
 >
@@ -163,7 +163,7 @@ The registration stage provides an overview of the baseline information, the eve
 The system will **automatically provide a warning message with the definition of the selected history of previous treatment**. The definitions have been set as per the WHO global guidelines and should be adapted to the local context.
 A question on whether the patient has ever received 2nd line treatment before will appear should “Relapse”, “Treatment after failure or LTFU”, or “Other previously treated” is selected as history.
 
-![Baseline info for 2nd line treatment](resources/images/tb_cs_079.png)
+![Baseline info for 2-line treatment](resources/images/tb_cs_079.png)
 
 ![Risk factors and HIV status](resources/images/tb_cs_008.png)
 
@@ -171,7 +171,7 @@ In case of confirmed seropositivity of the patient the system will prompt an exp
 
 At this point, if the laboratory results are available, the clinician/data entry clerk should be able to report the diagnostic decision.
 
-![Diagnosis of a suspected case](resources/images/tb_cs_080.png)
+![Diagnosis of a presumptive case](resources/images/tb_cs_080.png)
 
 ![Diagnosis](resources/images/tb_cs_009.png)
 
@@ -191,7 +191,7 @@ If the laboratory **results are negative and no notification is necessary**, the
 
 ![Denotification](resources/images/tb_cs_011.png)
 
-Once a suspected case is bacteriologically confirmed or clinically diagnosed, they should receive a **TB registration number**. This information is also highlighted as a **reminder in the Feedback** window on the top right corner of the data entry screen just above the enrollment information. The clinician/data entry clerk should therefore reopen the enrollment window and assign a TB registration number according to the national guidelines. Although the default configuration leaves this space blank and editable, implementers might want to consider if an automatic assignment of a number (or alphanumeric sequence) would be appropriate as per the local workflow.
+Once a presumptive case is bacteriologically confirmed or clinically diagnosed, they should receive a **TB registration number**. This information is also highlighted as a **reminder in the Feedback** window on the top right corner of the data entry screen just above the enrollment information. The clinician/data entry clerk should therefore reopen the enrollment window and assign a TB registration number according to the national guidelines. Although the default configuration leaves this space blank and editable, implementers might want to consider if an automatic assignment of a number (or alphanumeric sequence) would be appropriate as per the local workflow.
 
 ![TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/images/tb_cs_019.png)
 
@@ -233,10 +233,10 @@ Depending on the amount of time passed since the enrollment, the clinician/data 
 
 Should the system be used for real time data entry and surveillance, there are four predefined notifications in the default configuration of the tracker. These can and should be customized to better mirror the local context and needs.
 
-- **TB CS - Case notification** - this SMS notification is sent to the suspected case to confirm the diagnosis of TB by alerting the patient that the lab results are ready. The notification is sent only if the phone number of the suspected case and the notification date have a valid value.
+- **TB CS - Case notification** - this SMS notification is sent to the presumptive case by alerting the recepient that the lab results are available and he/she should contact the health facility. The notification is sent only if the phone number of the presumptive case and the notification date have a valid value.
 - **TB CS - Poor sample quality notification** - this is an internal system notification sent to the TB Admin user group whenever a sample that was received at the lab does not meet the quality standards for processing and is registered as “bad quality”. The notification should prompt the clinician to collect another sample from the same case for either diagnosis or monitoring purposes.
-- **TB CS - De-notification (presumptive case)** - this SMS notification is sent to the suspected case to confirm that the results are negative and that they are not a TB case. The notification is triggered only if the case is denotified from the “Outcome” stage and the phone number of the case was registered at enrollment.
-- **TB CS - De-notification (notified case)** - this SMS notification is sent to a suspected case who was mistakenly notified due to double data entry or any other human or system error.
+- **TB CS - De-notification (presumptive case)** - this SMS notification is sent to the presumptive case prompting him/her to contact the health facility. The notification is triggered only if the case is denotified from the “Outcome” stage and the phone number of the case was registered at enrollment.
+- **TB CS - Denotification (notified case)** - this SMS notification is sent to a already notified case who was mistakenly notified due to double data entry or any other human or system error.
 
 ### Constants
 
@@ -278,7 +278,7 @@ The current TB CS tracker supports data transfer for the following data sets:
 - TB - Treatment outcomes - second line (yearly)
 - TB - Laboratory (monthly)
 
-These groups include TB Notifications and outcomes as weThe mapping is based on codes of metadata objects. The process of data transfer is described in the installation guide.
+The mapping is based on codes of metadata objects. The process of data transfer is described in the installation guide.
 
 ### Program Rules
 
