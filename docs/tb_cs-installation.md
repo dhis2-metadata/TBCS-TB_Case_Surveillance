@@ -12,8 +12,8 @@ Installation of the module consists of several steps:
 
 1. [Preparing](#preparing-the-metadata-file) the metadata file.
 2. [Importing](#importing-metadata) the metadata file into DHIS2.
-3. [Configuring](#additional-configuration) the imported metadata.
-4. [Adapting](#adapting-the-tracker-program) the program after being imported
+4. [Configuring](#additional-configuration) the imported metadata.
+5. [Adapting](#adapting-the-tracker-program) the program after being imported
 
 It is recommended to first read through each section of the installation guide before starting the installation and configuration process in DHIS2. Identify applicable sections depending on the type of your import:
 
@@ -122,6 +122,18 @@ In order to fix sort order in option sets containing large numbers of options, p
 Visualizations, event reports, report tables and maps that are assigned to a specific organisation unit level or organisation unit group, have a reference to the root (level 1) organisation unit. Such objects, if present in the metadata file, contain a placeholder `<OU_ROOT_UID>`. Use the search function in the .json file editor to possibly identify this placeholder and replace it with the UID of the level 1 organisation unit in the target instance.
 
 Some visualizations and maps may contain references to organisation unit levels. Maps that consist of several map views may contain vaious Organisation unit level references based on the configuration of the map layer. Adjust the organisation unit level references in the metadata json file to match the organisation unit structure in the target instance before importing the metadata file.
+
+### Upgrading metadata package
+
+The process of upgrading an existing package to a newer version in a working DHIS2 instance is a complex operation that has to be taken with precaution. Such process has to be run in a staging instance first, before upgrading the configuration on the production server. As metadata objects may have been removed, added or changed, it is important to ensure that:
+
+   - the format of existing data can be mapped and adjusted to the new configuration;
+   - the discontinued metadata objects are deleted from the instance; 
+   - The existing objects are updated;
+   - the new objects are created;
+   - assignment of users to relevant user groups is reviewed.
+
+The [diff file](resources/tb_cs-diff-v2.0.0-vs-v1.0.1.xlsx) will help the implementer identify the necessary changes.
 
 ## Importing metadata
 
