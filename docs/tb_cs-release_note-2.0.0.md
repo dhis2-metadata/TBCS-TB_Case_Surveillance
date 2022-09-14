@@ -37,4 +37,4 @@ Version 2.0.0 contains four notification templates that allow users to send mess
 
 ### Fixes & Improvements
 
-For further information on the differences between the two versions of the TB-CS tracker, implementers and users can refer to the [diff file](resources/tb_cs-diff-v2.0.0-vs-v1.0.1.xlsx).
+For further information on the differences between the two versions of the TB-CS tracker, implementers and users can refer to the [diff file](resources/tb_cs-1.0.1-vs-2.0.0.xlsx).
