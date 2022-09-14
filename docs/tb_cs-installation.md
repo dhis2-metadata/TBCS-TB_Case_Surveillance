@@ -133,7 +133,7 @@ The process of upgrading an existing package to a newer version in a working DHI
    - the new objects are created;
    - assignment of users to relevant user groups is reviewed.
 
-The [diff file](resources/tb_cs-diff-v2.0.0-vs-v1.0.1.xlsx) will help the implementer identify the necessary changes.
+The [diff file](resources/tb_cs-1.0.1-vs-2.0.0.xlsx) will help the implementer identify the necessary changes.
 
 ## Importing metadata
 
