@@ -262,7 +262,7 @@ Upon the completion of the enrollment process, the feedback text box will be dis
 
 ### Program Indicators
 
-The full list of program indicators and indicators is available in the [metadata Reference File](resources/metadata.xlsx).
+The full list of program indicators and indicators is available in the [metadata Reference File](resources/tb_cs-metadata.xlsx).
 
 ### Reporting Case-based Data into Aggregate TB Reports
 
