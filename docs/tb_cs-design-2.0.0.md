@@ -71,10 +71,10 @@ This document is intended for audiences responsible for implementing TB data sys
 |-------------------------------|----------|
 | **Enrollment**                    | The stage collects the basic TEI attributes. Please note that some of the attributes show the “GEN - “ prefix. To know more about the [**Common Metadata Library**](https://docs.dhis2.org/en/topics/metadata/dhis2-who-digital-health-data-toolkit/common-metadata-library/design.html), please refer to the link provided.<br>The stage is non-repeatable.      |
 | **Diagnostic Laboratory Results** | In order to display the whole list of tests available for **diagnostic purposes**, the user should report first the “Sample information” section.<br>**The stage is repeatable**. The repeatability was set to allow countries to implement the tracker as per the local workflows and preferences - depending on whether there is the need to track ALL the samples (good and bad quality) or just the “good” samples, the stage can be repeated accordingly. |
-| **Diagnosis and notification**                  | The stage collects the baseline information, the risk factors, the potential HIV (co-)infection, and the diagnostic decision. The decision-maker will either **diagnose a suspected case with TB and notify** them, or will confirm the absence of infection and **denotify the unconfirmed case**. **SMS templates** for notifying and denotifying cases are included in the metadata package.<br>**The stage is non-repeatable**.                                    |
+| **Diagnosis and notification**                  | The stage collects the baseline information, the risk factors, the potential HIV (co-)infection, and the diagnostic decision. The decision-maker will either **diagnose a suspected case with TB and notify** them, or will confirm the absence of infection. **SMS templates** for notifying the cases or confirming the absence of infection are included in the metadata package.<br>**The stage is non-repeatable**.                                    |
 | **Treatment**                     | The stage collects the information necessary for the overview of the **patient’s regimen** and status during their course of treatment.<br>**The stage is repeatable** but limited to two events and one treatment regimen change.    |
-| **Monitoring Laboratory Results** | In order to display the whole list of tests available for diagnostic purposes, the user should report first the “Sample information” section. The stage only displays the tests used for **monitoring confirmed cases** rather than all the tests that can be requested for initial diagnostic purposes.<br>**The stage is repeatable**.    |
-| **Outcome**                       | The stage collects the final outcome of a confirmed case.<br>**The stage is non-repeatable**.   |
+| **Monitoring Laboratory Results** | In order to display the available tests for monitoring purposes (sputum microcopy and culture tests), the user should report first the “Sample information” section. The stage only displays the tests used for **monitoring confirmed cases** rather than all the tests that can be requested for the follow-up of the patient. The stage will display just the sputum microscopy for cases on fist-line treatment regimen, while will add the culture to teh microscopy for DRTB patients. <br>**The stage is repeatable**.    |
+| **Outcome**                       | The stage collects the final outcome of a confirmed case. In this stage the patients can be denotified if they result not being a TB case or in order to remove a duplicate enrollment. <br>**The stage is non-repeatable**.   |
 
 ### Stage Details
 
@@ -185,11 +185,9 @@ If the test results are negative but the case is **diagnosed clinically**, the p
 
 ![Clinical diagnosis](resources/images/tb_cs_010.png)
 
-If the laboratory **results are negative and no notification is necessary**, the user should tick “NO” in the “Do you want to notify the case?”. Once the case has been denotified for any reason, the case is excluded from analysis of TB cases.
+If the laboratory **results are negative and no notification is necessary**, the user should tick “NO” in the “Do you want to notify the case?”. Once the case has been denotified for any reason, the case is excluded from analysis of TB cases. **An SMS is sent to the patient if the patient is not diagnosed**
 
-**An SMS is sent to the patient if the case is denotified**, the reason for denotification is “Not a TB Case” and the patient’s telephone number is registered in the system.
-
-![Denotification](resources/images/tb_cs_011.png)
+![The suspected case results as negative](resources/images/tb_cs_011.png)
 
 Once a presumptive case is bacteriologically confirmed or clinically diagnosed, they should receive a **TB registration number**. This information is also highlighted as a **reminder in the Feedback** window on the top right corner of the data entry screen just above the enrollment information. The clinician/data entry clerk should therefore reopen the enrollment window and assign a TB registration number according to the national guidelines. Although the default configuration leaves this space blank and editable, implementers might want to consider if an automatic assignment of a number (or alphanumeric sequence) would be appropriate as per the local workflow.
 
@@ -203,7 +201,7 @@ The same info will also appear as an **error message** under the “Date of diag
 
 ![Treatment](resources/images/tb_cs_012.png)
 
-In this stage the clinician/data entry clerk will report the **regimen of the patient**. As the tests did not detect any resistance, the patient is automatically assigned the DS (drug susceptible) option. The clinician can tick the box in the section to overwrite the automatic assignment and manually assign the right classification according to their clinical opinion. The automatic classification could also be completely removed, which will in turn compel the clinician to manually assign a classification based on the laboratory results for every patient.
+In this stage the clinician/data entry clerk will report the **regimen of the patient**. As the tests did not detect any resistance, the patient is automatically assigned the DS (drug susceptible) option. The clinician can tick the box in the section to overwrite the automatic assignment and manually assign the right classification according to their clinical opinion. The automatic classification could also be completely removed, which will in turn compel the clinician to manually assign a classification based on the laboratory results for every patient. The treatment end date should be applied only if it is needed to overwrite the current treatment - e.g. the patient needs to be put on 2nd line from 1st line treatment regimen. The decision of being able to change the treatment rather than the notification and diagnosis stage was taken in odrder to have more flexibility in case of mistakes and to keep the history of the patient rather than overwriting and removing the past diagnoses.
 
 The date of treatment initiation (event date) is important for the calculation of the delay between diagnosis and the debut of the treatment.
 The Treatment Status section contains **automatically assigned standard calculations of treatment durations and treatment initiation delays in days**.
@@ -212,7 +210,7 @@ The Outcome stage due date may be changed manually, but can only be rescheduled 
 
 #### Monitoring Laboratory Results
 
-The structure of the monitoring stage is **virtually identical to the diagnostic laboratory stage**. The main difference is the list of tests - the monitoring lab stage includes only the ones that are relevant for monitoring purposes. Please note that if the patient is flagged as DS (drug susceptible), only the microscopy test will automatically appear in the monitoring lab stage as per WHO guidelines.
+The structure of the monitoring stage is **virtually identical to the diagnostic laboratory stage**. The main difference is the list of tests - the monitoring lab stage includes only the ones that are relevant for monitoring purposes. Please note that if the patient is flagged as DS (drug susceptible), only the microscopy test will automatically appear in the monitoring lab stage as per WHO guidelines. As aforementioned, should the patient be a DRTB case, the list of tests will also display the cultures in solid and liquid media.
 
 #### Outcome
 
@@ -226,6 +224,8 @@ Depending on the amount of time passed since the enrollment, the clinician/data 
 **The number of months has been set as placeholder** while following the global guidelines, though the value should be updated according to the relevant national guidelines. Every outcome will automatically display a warning box with the definition of the chosen option. The definitions follow the standard explanation detailed in the WHO guidelines. Similarly, the definitions should also be replaced or expanded based on the ones present in the national guidelines.
 
 ![Outcome](resources/images/tb_cs_014.png)
+
+The outcome can also be used to denotify a case. A denotification is applied if a suspected patient is not a case, or to remove a duplicate enrollment. Removed duplicates will not be considered nor counted towards the total reports, though the number of denotified duplicates will be available in order to monitor the quality of the data and of the data entry.
 
 ## Additional Features
 
