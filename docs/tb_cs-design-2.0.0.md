@@ -67,6 +67,8 @@ This document is intended for audiences responsible for implementing TB data sys
 
 ## Tracker Program Configuration
 
+![Overview of stages and sections](resources/images/tb_cs_030.png)
+
 | **Structure**                    | **Description**       |
 |-------------------------------|----------|
 | **Enrollment**                    | The stage collects the basic TEI attributes. Please note that some of the attributes show the “GEN - “ prefix. To know more about the [**Common Metadata Library**](https://docs.dhis2.org/en/topics/metadata/dhis2-who-digital-health-data-toolkit/common-metadata-library/design.html), please refer to the link provided.<br>The stage is non-repeatable.      |
@@ -185,7 +187,7 @@ If the test results are negative but the case is **diagnosed clinically**, the p
 
 ![Clinical diagnosis](resources/images/tb_cs_010.png)
 
-If the laboratory **results are negative and no notification is necessary**, the user should tick “NO” in the “Do you want to notify the case?”. Once the case has been denotified for any reason, the case is excluded from analysis of TB cases. **An SMS is sent to the patient if the patient is not diagnosed**
+If the laboratory **results are negative and no notification is necessary**, the user should tick “NO” in the “Do you want to notify the case?”. This was the case is excluded from analysis of TB cases. **An SMS is sent to the patient if the patient is not diagnosed**
 
 ![The suspected case results as negative](resources/images/tb_cs_011.png)
 
@@ -201,7 +203,8 @@ The same info will also appear as an **error message** under the “Date of diag
 
 ![Treatment](resources/images/tb_cs_012.png)
 
-In this stage the clinician/data entry clerk will report the **regimen of the patient**. As the tests did not detect any resistance, the patient is automatically assigned the DS (drug susceptible) option. The clinician can tick the box in the section to overwrite the automatic assignment and manually assign the right classification according to their clinical opinion. The automatic classification could also be completely removed, which will in turn compel the clinician to manually assign a classification based on the laboratory results for every patient. The treatment end date should be applied only if it is needed to overwrite the current treatment - e.g. the patient needs to be put on 2nd line from 1st line treatment regimen. The decision of being able to change the treatment rather than the notification and diagnosis stage was taken in odrder to have more flexibility in case of mistakes and to keep the history of the patient rather than overwriting and removing the past diagnoses.
+In this stage the clinician/data entry clerk will report the **regimen of the patient** - 1st or 2nd line treatment. As the tests did not detect any resistance, the patient is automatically assigned the DS (drug susceptible) option. The clinician can tick the box in the section to overwrite the automatic assignment and manually assign the right classification according to their clinical opinion. The automatic classification could also be completely removed, which will in turn compel the clinician to manually assign a classification based on the laboratory results for every patient. 
+The treatment end date should be applied only if it is needed to overwrite the current treatment - e.g. the patient needs to be put on 2nd line from 1st line treatment regimen. The decision of being able to change the treatment rather than the notification and diagnosis stage was taken in odrder to have more flexibility in case of mistakes and to keep the history of the patient rather than overwriting and removing the past diagnoses.
 
 The date of treatment initiation (event date) is important for the calculation of the delay between diagnosis and the debut of the treatment.
 The Treatment Status section contains **automatically assigned standard calculations of treatment durations and treatment initiation delays in days**.
