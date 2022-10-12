@@ -1,8 +1,8 @@
 # Release Note
 
-A new version of the WHO-approved TB Case Surveillance Tracker package (v2.0.0) has been released with new content, configuration fixes and improvements. These are summarized below.
+## 2.0.0
 
-## New Content & Features
+A new version of the WHO-approved TB Case Surveillance Tracker package (v2.0.0) has been released with new content, configuration fixes and improvements.
 
 ### Enrollment Stage
 
