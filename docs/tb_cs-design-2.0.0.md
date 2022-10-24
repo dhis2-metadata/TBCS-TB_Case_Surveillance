@@ -63,7 +63,7 @@ This document is intended for audiences responsible for implementing TB data sys
 
 - **System admins/HMIS focal points**: those responsible for installing metadata packages, designing and maintaining HMIS and/or TB data systems
 - **TB program focal points** responsible for overseeing data collection, management, analysis and reporting functions of the national TB programme
-- **Implementation support specialist**s, e.g. those providing technical assistance to the TB programme or the core HMIS unit to support & maintain DHIS2 as a national health information system and/or TB data system
+- **Implementation support specialist** e.g. those providing technical assistance to the TB programme or the core HMIS unit to support & maintain DHIS2 as a national health information system and/or TB data system
 
 ## Tracker Program Configuration
 
