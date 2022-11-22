@@ -1,5 +1,9 @@
 # TB Case Surveillance
 
+## Release Note
+
+- [Release Note](#tb-cs-release-note)
+
 ## Design
 
 - [Version 2.0.0](#tb-cs-design-200)
@@ -8,10 +12,6 @@
 ## Installation
 
 - [Installation Guide](#tb-cs-installation)
-
-## Release Note
-
-- [Release Note](#tb-cs-release-note)
 
 ## Metadata Reference
 
