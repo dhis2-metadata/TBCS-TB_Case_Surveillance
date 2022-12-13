@@ -14,9 +14,7 @@ flowchart TD
   id8(Monitoring Laboratory Results <br> Repeatable)
   id9(Outcome <br> Non-repeatable)
   subgraph Enrollment
-    direction TD
     subgraph Diagnostics
-       direction TD
        id2 <--> id3
     end
     id1 --> Diagnostics
