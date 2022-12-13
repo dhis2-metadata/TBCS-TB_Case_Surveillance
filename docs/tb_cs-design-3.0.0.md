@@ -3,7 +3,7 @@
 ```mermaid
 %%{init: {'mirrorActors': false } }%%
 
-flowchart LR
+flowchart TD
   id1>Enrollment]
   id2(Diagnostic Laboratory Results <br> Repeatable)
   id3(Diagnosis and Notification <br> Non-Repeatable)
