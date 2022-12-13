@@ -16,7 +16,7 @@ flowchart TD
   subgraph Enrollment
     direction TB
     subgraph Diagnostics
-       direction LR
+       direction TD
        id2 <--> id3
     end
     id1 --> Diagnostics
