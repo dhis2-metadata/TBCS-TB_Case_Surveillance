@@ -22,7 +22,7 @@ flowchart TD
     id1 --> Diagnostics
   end
   subgraph Case Registration
-    direction TD
+    direction LR
     id4 --> id5
     id4 --> id6
   end
