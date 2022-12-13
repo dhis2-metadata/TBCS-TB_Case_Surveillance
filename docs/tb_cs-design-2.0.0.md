@@ -1,5 +1,38 @@
 # TB Case Surveillance - System Design Document { #tb-cs-design-200 }
 
+```mermaid
+%%{init: {'mirrorActors': false } }%%
+
+flowchart LR
+  id1>Enrollment]
+  id2(Diagnostic Laboratory Results <br> Repeatable)
+  id3(Diagnosis and Notification <br> Non-Repeatable)
+  id4((Diagnosis))
+  id5{Case}
+  id6{Not Case}
+  id7(Treatment <br> Repeatable)
+  id8(Monitoring Laboratory Results <br> Repeatable)
+  id9(Outcome <br> Non-repeatable)
+  subgraph Enrollment
+    direction TB
+    subgraph Diagnostics
+       direction LR
+       id2 <--> id3
+    end
+    id1 --> Diagnostics
+  end
+  subgraph Case Registration
+    direction TB
+    id4 --> id5
+    id4 --> id6
+  end
+  Enrollment --> id4
+  id5 -- Assignation of TB registration number --> id7
+  id7 --> id8
+  id8 --> id9
+  
+```
+
 ## Introduction
 
 The **TB Case Surveillance Tracker (TB-CS) digital data package for DHIS2** is based on the [WHO recording and reporting framework](https://apps.who.int/iris/handle/10665/79199) from 2013. It provides a set of recommended metadata (data elements, program rules, etc) to enable electronic capture of individual/case-based TB surveillance data. The tracker metadata is configured to ensure that aggregated standard quarterly TB report indicators on notifications, first-line outcomes and second-line outcomes as defined by the WHO Definitions and reporting framework for TB (2013) can be automatically generated from the individual data captured. The TB Case Surveillance Tracker is not intended to support patient management or patient care. This requires more detailed analysis of roles, responsibilities, workflows and decision-making within the settings in which such systems would be implemented.
