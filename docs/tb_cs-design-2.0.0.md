@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The **TB Case Surveillance Tracker (TB-CS) digital data package for DHIS2** is based on the [WHO recording and reporting framework](https://apps.who.int/iris/handle/10665/79199) from 2013. It provides a set of recommended metadata (data elements, program rules, etc) to enable electronic capture of individual/case-based TB surveillance data. The tracker metadata is configured to ensure that aggregated standard quarterly TB report indicators on notifications, first-line outcomes and second-line outcomes as defined by the WHO Definitions and reporting framework for TB (2013) can be automatically generated from the individual data captured. The TB Case Surveillance Tracker is not intended to support patient management or patient care. This requires more detailed analysis of roles, responsibilities, workflows and decision-making within the settings in which such systems would be implemented.
+The **TB Case Surveillance (TB-CS) Tracker** design is based on the [WHO recording and reporting framework](https://apps.who.int/iris/handle/10665/79199) from 2013. It provides a set of recommended metadata (data elements, program rules, etc) to enable electronic capture of individual/case-based TB surveillance data. The tracker metadata is configured to ensure that aggregated standard quarterly TB report indicators on notifications, first-line outcomes and second-line outcomes as defined by the WHO Definitions and reporting framework for TB (2013) can be automatically generated from the individual data captured. The TB Case Surveillance Tracker is not intended to support patient management or patient care. This requires more detailed analysis of roles, responsibilities, workflows and decision-making within the settings in which such systems would be implemented.
 
 The system design document explains how the tracker program was configured to meet the data entry and analysis requirements and support a typical workflow. The document does not include an exhaustive listing of all metadata captured. This document also does not consider the resources and infrastructure needed to implement such a system, such as servers, power, internet connections, backups, training and user support. More information on the TB programme technical aspects informing this system design is available in the [WHO publication on electronic recording and reporting for tuberculosis care and control](https://apps.who.int/iris/handle/10665/44840). Supplementary implementation guidance for DHIS2 can be found in the [General DHIS2 Implementation Guide](https://docs.dhis2.org/en/implement/configuring-the-android-app/about-this-guide.html) and [DHIS2 tracker implementation guide](https://docs.dhis2.org/en/implement/understanding-dhis2-implementation/a-quick-guide-to-dhis2-implementation.html).
 
@@ -230,6 +230,14 @@ Depending on the amount of time passed since the enrollment, the clinician/data 
 
 The outcome can also be used to denotify a case. A denotification is applied if a suspected patient is not a case, or to remove a duplicate enrollment. Removed duplicates will not be considered nor counted towards the total reports, though the number of denotified duplicates will be available in order to monitor the quality of the data and of the data entry.
 
+### Program Rules
+
+Program rules are used extensively in the TB Case Surveillance tracker to show/hide data elements to optimize the data entry form, show warnings/feedback to the data entry user and autocalculate & assign data values to data elements. A complete list of program rules can be found in the metadata reference file.
+
+Program rules configured to 'show warning' are used to include reminders of WHO case definitions and data variables to the data entry user. For example, a program rule shows the user a pop-up reminder when entering the 'History of previous treatment' depending on the option selected from the option set (.e.g new case, relapsed case, treatment after failure, etc). This aims to improve the quality of data collection and adherence to standardized definitions. 
+
+![Example of program rule to show definition](resources/images/tb_program_rule.png)
+
 ## Additional Features
 
 ### Real Time Notifications
@@ -265,13 +273,11 @@ Upon the completion of the enrollment process, the feedback text box will be dis
 
 ### Program Indicators
 
-The full list of program indicators and indicators is available in the [metadata Reference File](resources/tb_cs-metadata.xlsx).
+Program indicators have been configured to produce analytical outputs that aggregate individiual level data captured in the Tracker, including time-between indicators, according to WHO indicator definitions. These include case notifications, treatment outomes and laboratory indicators with recommended disaggregations for key dimensions such as age/sex. The full list of program indicators and indicators is available in the metadata reference file inlucded in the package resources. 
 
-### Reporting Case-based Data into Aggregate TB Reports
+### Tracker-to-aggregate
 
-The TB case-based surveillance tracker captures data that can be fed into standard, aggregate reporting (i.e. monthly, quarterly, or more frequently as determined by the country). An aggregate TB system design in DHIS2 can be accessed at who.dhis2.org/documentation/#tb.
-
-The package includes 2 groups of program indicators that are mapped to the corresponding data elements and category option combinations of the data sets in the TB aggregate package.
+The TB case surveillance tracker captures data that can be aggregated and reported via fed into standard, aggregate reporting (i.e. monthly, quarterly, or more frequently as determined by the country). This is useful for pushing data from an individual level system to the national HMIS as part of routine reporting processes. In particular, c0ountries that begin scaling up case-based systems typically hve a period of gradual scale up where some facilities still rely on paper-based systems and aggregated reporting into the HMIS. This technical solution allows countries to reduce the burden of reporting and bring all data together in the HMIS for analysis, regardless of whether the facility is using the Tracker or still relies on paper-based systems. The package includes 2 groups of program indicators that are mapped to the corresponding data elements and category option combinations of the data sets in the TB HMIS package (configured using the aggregate domain). 
 
 The current TB CS tracker supports data transfer for the following data sets:
 
@@ -282,10 +288,6 @@ The current TB CS tracker supports data transfer for the following data sets:
 - TB - Laboratory (monthly)
 
 The mapping is based on codes of metadata objects. The process of data transfer is described in the installation guide.
-
-### Program Rules
-
-Program rules are used extensively in the TB Case Surveillance tracker to show/hide data elements to optimize the data entry form, show warnings/feedback to the data entry user and autocalculate & assign data values to data elements. A complete list of program rules can be found in the metadata reference file.
 
 ## Dashboards
 
