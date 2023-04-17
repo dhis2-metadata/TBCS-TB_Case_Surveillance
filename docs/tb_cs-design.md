@@ -1,4 +1,4 @@
-# TB Case Surveillance - System Design Document { #tb-cs-design-200 }
+# TB Case Surveillance - System Design Document { #tb-cs-design }
 
 ## Introduction
 
