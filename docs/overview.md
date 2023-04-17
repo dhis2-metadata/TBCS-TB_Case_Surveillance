@@ -6,7 +6,7 @@
 
 ## Design
 
-- [Version 2.0.0](#tb-cs-design-200)
+- [Version 2.0.0](#tb-cs-design)
 - [Version 1.0.1](#tb-cs-design-101)
 
 ## Installation
