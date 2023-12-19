@@ -12,7 +12,7 @@ Installation of the module consists of several steps:
 
 1. [Preparing](#preparing-the-metadata-file) the metadata file.
 2. [Importing](#importing-metadata) the metadata file into DHIS2.
-4. [Configuring](#additional-configuration) the imported metadata.
+4. [Configuring](#configuration) the imported metadata.
 5. [Adapting](#adapting-the-tracker-program) the program after being imported
 
 It is recommended to first read through each section of the installation guide before starting the installation and configuration process in DHIS2. Identify applicable sections depending on the type of your import:
