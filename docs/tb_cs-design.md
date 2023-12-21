@@ -202,6 +202,10 @@ The same info will also appear as an **error message** under the “Date of diag
 
 ![Error message for the TB registration number assignment for clinically and bacteriologically diagnosed cases](resources/images/tb_cs_020.png)
 
+If the case is diagnosed with a new episode of bacteriologically confirmed pulmonary TB, a section to record the number of people (excluding the index case) living in the same household will become available.
+
+The user will also be prompted to register the household contacts in the TB Household Contacts Investigation module using the relationship widget.
+
 #### Treatment
 
 ![Treatment](resources/images/tb_cs_012.png)
