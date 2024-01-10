@@ -39759,7 +39759,7 @@
         "description": "TB Case Surveillance (tracker)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20240110T084728",
+        "lastUpdated": "20240110T090219",
         "locale": "en",
         "name": "TB_CS_TRK_DHIS2.40.2-en",
         "type": "TRK",
