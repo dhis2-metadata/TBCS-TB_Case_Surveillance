@@ -5987,10 +5987,10 @@
                     "id": "kK2Y5O5urC0"
                 },
                 {
-                    "id": "q1ubTDQiDwj"
+                    "id": "b89yFC4FHtF"
                 },
                 {
-                    "id": "b89yFC4FHtF"
+                    "id": "q1ubTDQiDwj"
                 },
                 {
                     "id": "pTRWioGFFod"
@@ -6014,6 +6014,9 @@
                     "id": "ug1acEAsTfd"
                 },
                 {
+                    "id": "bNGqfxvPbPo"
+                },
+                {
                     "id": "xP5C3zmYXde"
                 },
                 {
@@ -6021,9 +6024,6 @@
                 },
                 {
                     "id": "Ec6plSlaIU2"
-                },
-                {
-                    "id": "bNGqfxvPbPo"
                 },
                 {
                     "id": "HjZ2k3ZvpRU"
@@ -6059,10 +6059,10 @@
                     "id": "d2nso3iTDyC"
                 },
                 {
-                    "id": "cQUTagw2Jtw"
+                    "id": "Lf02pJ3jScn"
                 },
                 {
-                    "id": "Lf02pJ3jScn"
+                    "id": "cQUTagw2Jtw"
                 },
                 {
                     "id": "F6kH0qcMT7Z"
@@ -6167,10 +6167,10 @@
                     "id": "nulxcFUqHFK"
                 },
                 {
-                    "id": "iiVMeXUBuyF"
+                    "id": "ig6R6PnpsHv"
                 },
                 {
-                    "id": "ig6R6PnpsHv"
+                    "id": "iiVMeXUBuyF"
                 },
                 {
                     "id": "eU9zyTHI4oq"
@@ -6227,16 +6227,16 @@
                     "id": "uEV8flIOeYI"
                 },
                 {
-                    "id": "D4z4o6JR9M0"
-                },
-                {
                     "id": "UIzR3p4nlMI"
                 },
                 {
-                    "id": "x8RVc1REj1q"
+                    "id": "D4z4o6JR9M0"
                 },
                 {
                     "id": "Zd7703kfnOC"
+                },
+                {
+                    "id": "x8RVc1REj1q"
                 },
                 {
                     "id": "TJLwFGwpGFU"
@@ -6248,10 +6248,10 @@
                     "id": "eMNDiZHLDaq"
                 },
                 {
-                    "id": "Pvok4dVDC9n"
+                    "id": "MFfdhf9yuYD"
                 },
                 {
-                    "id": "MFfdhf9yuYD"
+                    "id": "Pvok4dVDC9n"
                 },
                 {
                     "id": "xyczZvsuaWr"
@@ -6347,10 +6347,10 @@
                     "id": "Yt8rEcU2HKC"
                 },
                 {
-                    "id": "IBqX2HMQV4T"
+                    "id": "GZ5Vqh8wdI1"
                 },
                 {
-                    "id": "GZ5Vqh8wdI1"
+                    "id": "IBqX2HMQV4T"
                 },
                 {
                     "id": "RAtv78ZXQec"
@@ -29921,13 +29921,13 @@
                     "id": "qnOg2IlFB9z"
                 },
                 {
-                    "id": "sh489WjyS7w"
+                    "id": "wDfr8agcZ0y"
                 },
                 {
                     "id": "E1R7WvZH2D5"
                 },
                 {
-                    "id": "wDfr8agcZ0y"
+                    "id": "sh489WjyS7w"
                 },
                 {
                     "id": "HJot7Rv0QJh"
@@ -29936,10 +29936,10 @@
                     "id": "q1mX6gq93sS"
                 },
                 {
-                    "id": "Jf8dhOwUqQ4"
+                    "id": "Vx27NM3lvXP"
                 },
                 {
-                    "id": "Vx27NM3lvXP"
+                    "id": "Jf8dhOwUqQ4"
                 },
                 {
                     "id": "hjwbhmNDHFP"
@@ -29963,10 +29963,10 @@
                     "id": "Ixb4whUJ8KE"
                 },
                 {
-                    "id": "apA0kVPyNPn"
+                    "id": "COt9AAFSa8i"
                 },
                 {
-                    "id": "COt9AAFSa8i"
+                    "id": "apA0kVPyNPn"
                 },
                 {
                     "id": "fvYU1HXDjxU"
@@ -30050,10 +30050,10 @@
                     "id": "yomoDu4G8da"
                 },
                 {
-                    "id": "F3k9sLW7HtB"
+                    "id": "hRnrxBIhyDF"
                 },
                 {
-                    "id": "hRnrxBIhyDF"
+                    "id": "F3k9sLW7HtB"
                 },
                 {
                     "id": "y8hQfAmZfOI"
@@ -30245,13 +30245,13 @@
                     "id": "qnOg2IlFB9z"
                 },
                 {
-                    "id": "sh489WjyS7w"
+                    "id": "wDfr8agcZ0y"
                 },
                 {
                     "id": "E1R7WvZH2D5"
                 },
                 {
-                    "id": "wDfr8agcZ0y"
+                    "id": "sh489WjyS7w"
                 },
                 {
                     "id": "HJot7Rv0QJh"
@@ -35026,7 +35026,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 19
+            "version": 20
         },
         {
             "attributeValues": [],
@@ -35137,7 +35137,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 18
+            "version": 19
         },
         {
             "attributeValues": [],
@@ -35218,7 +35218,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 13
+            "version": 14
         },
         {
             "attributeValues": [],
@@ -35255,7 +35255,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 3
+            "version": 4
         },
         {
             "attributeValues": [],
@@ -35318,7 +35318,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 5
+            "version": 6
         },
         {
             "attributeValues": [],
@@ -35397,7 +35397,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 12
+            "version": 13
         },
         {
             "attributeValues": [],
@@ -35468,7 +35468,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 6
+            "version": 7
         },
         {
             "attributeValues": [],
@@ -35531,7 +35531,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 6
+            "version": 7
         },
         {
             "attributeValues": [],
@@ -35616,7 +35616,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 6
+            "version": 7
         },
         {
             "attributeValues": [],
@@ -35731,7 +35731,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 7
+            "version": 8
         },
         {
             "attributeValues": [],
@@ -35785,7 +35785,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 7
+            "version": 8
         },
         {
             "attributeValues": [],
@@ -35839,7 +35839,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 11
+            "version": 12
         },
         {
             "attributeValues": [],
@@ -35887,7 +35887,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 6
+            "version": 7
         },
         {
             "attributeValues": [],
@@ -35944,7 +35944,7 @@
                 }
             ],
             "valueType": "TEXT",
-            "version": 11
+            "version": 12
         },
         {
             "attributeValues": [],
@@ -35981,7 +35981,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 2
+            "version": 3
         },
         {
             "attributeValues": [],
@@ -36018,7 +36018,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 3
+            "version": 4
         },
         {
             "attributeValues": [],
@@ -36064,7 +36064,7 @@
             },
             "translations": [],
             "valueType": "TEXT",
-            "version": 5
+            "version": 6
         }
     ],
     "options": [
@@ -39759,7 +39759,7 @@
         "description": "TB Case Surveillance (tracker)",
         "healthAreaCode": "TB",
         "healthAreaName": "Tuberculosis",
-        "lastUpdated": "20231220T215033",
+        "lastUpdated": "20240110T084728",
         "locale": "en",
         "name": "TB_CS_TRK_DHIS2.40.2-en",
         "type": "TRK",
@@ -39773,13 +39773,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "U2NHL7ViKuc",
+                    "id": "EACB8CkCABi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -39790,13 +39790,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "EACB8CkCABi",
+                    "id": "U2NHL7ViKuc",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -39921,13 +39921,13 @@
             "aggregationType": "SUM",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cJcjvvIs1Vr",
+                    "id": "hMgEYDi57uB",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -39938,13 +39938,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "hMgEYDi57uB",
+                    "id": "cJcjvvIs1Vr",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40046,13 +40046,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "slAKLMnowAm",
+                    "id": "kC6FzUv4sjY",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40063,13 +40063,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "kC6FzUv4sjY",
+                    "id": "slAKLMnowAm",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40207,13 +40207,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ahCCAogWaJa",
+                    "id": "vbfIakt6H15",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40224,13 +40224,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vbfIakt6H15",
+                    "id": "ahCCAogWaJa",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40368,13 +40368,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "P22YSMSz5V4",
+                    "id": "FJvjxufc6n1",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40385,13 +40385,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "FJvjxufc6n1",
+                    "id": "P22YSMSz5V4",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40496,13 +40496,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "AfOd8QMAOPb",
+                    "id": "WKv3kLdW0Cp",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40513,13 +40513,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "WKv3kLdW0Cp",
+                    "id": "AfOd8QMAOPb",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40646,13 +40646,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "U7hoYtrdpQC",
+                    "id": "DbKXoz49pqs",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40663,13 +40663,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DbKXoz49pqs",
+                    "id": "U7hoYtrdpQC",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -40795,13 +40795,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bBcQt3kaG6X",
+                    "id": "dXlQTTeZ0mx",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -40814,13 +40814,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "dXlQTTeZ0mx",
+                    "id": "bBcQt3kaG6X",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -40924,13 +40924,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UIkfCR5ERkA",
+                    "id": "qjmZwQbo9LV",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -40943,13 +40943,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qjmZwQbo9LV",
+                    "id": "UIkfCR5ERkA",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41053,13 +41053,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "WEVSnQy4W9R",
+                    "id": "oTOmCF4qyyu",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41072,13 +41072,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "oTOmCF4qyyu",
+                    "id": "WEVSnQy4W9R",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41182,13 +41182,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "IwYBk1h6hVR",
+                    "id": "ONH9o4Frxc4",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41201,13 +41201,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ONH9o4Frxc4",
+                    "id": "IwYBk1h6hVR",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41311,13 +41311,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Q1jWfZQOaTW",
+                    "id": "x4SKwL2DZ1i",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41330,13 +41330,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "x4SKwL2DZ1i",
+                    "id": "Q1jWfZQOaTW",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41440,13 +41440,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "gLA5inrFB5y",
+                    "id": "pgSyvPhJDkR",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41459,13 +41459,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "pgSyvPhJDkR",
+                    "id": "gLA5inrFB5y",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41569,13 +41569,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ApMdYW1zH27",
+                    "id": "SXHyHNCIDz1",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41588,13 +41588,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SXHyHNCIDz1",
+                    "id": "ApMdYW1zH27",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41698,13 +41698,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "jLgXacCRWU1",
+                    "id": "URWTPlCiBud",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -41715,13 +41715,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "URWTPlCiBud",
+                    "id": "jLgXacCRWU1",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -41823,13 +41823,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "MFD71rZn8ld",
+                    "id": "dfE8nktgbGy",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -41840,13 +41840,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "dfE8nktgbGy",
+                    "id": "MFD71rZn8ld",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -41947,13 +41947,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vqMDQOT7f9G",
+                    "id": "l4DJoGHkGTk",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -41966,13 +41966,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "l4DJoGHkGTk",
+                    "id": "vqMDQOT7f9G",
                     "offsetPeriodType": "Yearly",
                     "offsetPeriods": -1,
                     "sharing": {
@@ -42076,13 +42076,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "RJhXXXTOvEv",
+                    "id": "cjoSY3bH7Aa",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42093,13 +42093,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cjoSY3bH7Aa",
+                    "id": "RJhXXXTOvEv",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42381,13 +42381,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NATkta0CIVV",
+                    "id": "nim3NUrSs8T",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42398,13 +42398,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "nim3NUrSs8T",
+                    "id": "NATkta0CIVV",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42505,13 +42505,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "r61eTtbma6n",
+                    "id": "SBnSEPPolNj",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42522,13 +42522,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "SBnSEPPolNj",
+                    "id": "r61eTtbma6n",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42654,13 +42654,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mhJWYV5xnrL",
+                    "id": "bLDSomFACnx",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42671,13 +42671,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bLDSomFACnx",
+                    "id": "mhJWYV5xnrL",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42803,13 +42803,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "n88huUYVocQ",
+                    "id": "z2dczvmrlDr",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42820,13 +42820,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "z2dczvmrlDr",
+                    "id": "n88huUYVocQ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42928,13 +42928,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Y7RVGhQZtGi",
+                    "id": "oqVinhh5Lja",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -42945,13 +42945,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "oqVinhh5Lja",
+                    "id": "Y7RVGhQZtGi",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43038,13 +43038,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "qmvdXoYknYR",
+                    "id": "CUWnqPa3jPf",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43055,13 +43055,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "CUWnqPa3jPf",
+                    "id": "qmvdXoYknYR",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43194,13 +43194,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yA32u9PAH9g",
+                    "id": "xkHJvLPvOqJ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43211,13 +43211,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xkHJvLPvOqJ",
+                    "id": "yA32u9PAH9g",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43343,13 +43343,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "El2mbqpdsud",
+                    "id": "UUvLzwn7aFt",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43360,13 +43360,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "UUvLzwn7aFt",
+                    "id": "El2mbqpdsud",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43492,13 +43492,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "mNhDDUU7EgC",
+                    "id": "zW3DEi93AK6",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43509,13 +43509,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "zW3DEi93AK6",
+                    "id": "mNhDDUU7EgC",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43641,13 +43641,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "sd1hIZRLmRG",
+                    "id": "Q7zux0fgyZp",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43658,13 +43658,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Q7zux0fgyZp",
+                    "id": "sd1hIZRLmRG",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43790,13 +43790,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "cw9VlMZ2P2K",
+                    "id": "KkVDKURivrI",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43807,13 +43807,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KkVDKURivrI",
+                    "id": "cw9VlMZ2P2K",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43939,13 +43939,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "E6YrGd9G2hP",
+                    "id": "B9sJjTCqLhZ",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -43956,13 +43956,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "B9sJjTCqLhZ",
+                    "id": "E6YrGd9G2hP",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44089,13 +44089,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "HMwvqmfIbVP",
+                    "id": "F7FP3vZJV1j",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44106,13 +44106,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "F7FP3vZJV1j",
+                    "id": "HMwvqmfIbVP",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44503,13 +44503,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Pg9UwzfbtN0",
+                    "id": "f5J8ilFPlsY",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44520,13 +44520,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "f5J8ilFPlsY",
+                    "id": "Pg9UwzfbtN0",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44628,13 +44628,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DesUxGo2B1R",
+                    "id": "OdLmw0mMgXv",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44645,13 +44645,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "OdLmw0mMgXv",
+                    "id": "DesUxGo2B1R",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44758,13 +44758,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "J7i8LeJvwJf",
+                    "id": "ZjmXkzRF8e5",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44775,13 +44775,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZjmXkzRF8e5",
+                    "id": "J7i8LeJvwJf",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44888,13 +44888,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "EczobQ42DYw",
+                    "id": "LkG5SiOKltz",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -44905,13 +44905,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "LkG5SiOKltz",
+                    "id": "EczobQ42DYw",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -45038,13 +45038,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "PS_EVENTDATE:RB3a5MXMe8g",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NPvJ8mOyQh0",
+                    "id": "dcnaoypmIR9",
                     "offsetPeriods": 0,
                     "sharing": {
                         "external": false,
@@ -45056,13 +45056,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "PS_EVENTDATE:RB3a5MXMe8g",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "dcnaoypmIR9",
+                    "id": "NPvJ8mOyQh0",
                     "offsetPeriods": 0,
                     "sharing": {
                         "external": false,
@@ -45126,13 +45126,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "AFJa447bV1o",
+                    "id": "NAwBZ6l4ssB",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -45143,13 +45143,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "NAwBZ6l4ssB",
+                    "id": "AFJa447bV1o",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -45822,13 +45822,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "pyJ8Xj6NNTa",
+                    "id": "rNI8i4gwq6q",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -45839,13 +45839,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "#{ODD4lMPm0JX.NKd3CiQsSNH}",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "rNI8i4gwq6q",
+                    "id": "pyJ8Xj6NNTa",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49454,13 +49454,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YtVuqF8AWoq",
+                    "id": "XajNNDwQ7oh",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49471,13 +49471,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "XajNNDwQ7oh",
+                    "id": "YtVuqF8AWoq",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49537,13 +49537,14 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "kVQpVMI8vBw",
+                    "id": "bN75Os79Q1a",
+                    "offsetPeriods": 0,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -49554,14 +49555,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "bN75Os79Q1a",
-                    "offsetPeriods": 0,
+                    "id": "kVQpVMI8vBw",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -54612,13 +54612,13 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "B1b3SqHR5bU",
+                    "id": "wfNFFXn8Y6G",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -54629,13 +54629,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "wfNFFXn8Y6G",
+                    "id": "B1b3SqHR5bU",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -54695,13 +54695,14 @@
             "aggregationType": "COUNT",
             "analyticsPeriodBoundaries": [
                 {
-                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "YjYsBzajbrS",
+                    "id": "vx1WYveokkf",
+                    "offsetPeriods": 0,
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -54712,14 +54713,13 @@
                     "userGroupAccesses": []
                 },
                 {
-                    "analyticsPeriodBoundaryType": "AFTER_START_OF_REPORTING_PERIOD",
+                    "analyticsPeriodBoundaryType": "BEFORE_END_OF_REPORTING_PERIOD",
                     "attributeValues": [],
                     "boundaryTarget": "EVENT_DATE",
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vx1WYveokkf",
-                    "offsetPeriods": 0,
+                    "id": "YjYsBzajbrS",
                     "sharing": {
                         "external": false,
                         "userGroups": {},
@@ -75472,10 +75472,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "eSYn8x31UBx"
+                    "id": "ItffbpL5uGG"
                 },
                 {
-                    "id": "ItffbpL5uGG"
+                    "id": "eSYn8x31UBx"
                 },
                 {
                     "id": "xsEjrCggsNu"
@@ -75487,13 +75487,13 @@
                     "id": "LJGyFFSd0iu"
                 },
                 {
-                    "id": "mAh7wbWP1rT"
-                },
-                {
                     "id": "rO7KsXfWzbO"
                 },
                 {
                     "id": "vAYLkdmShsL"
+                },
+                {
+                    "id": "mAh7wbWP1rT"
                 }
             ],
             "translations": [
@@ -77660,16 +77660,16 @@
                     "id": "KwrMe3nYUun"
                 },
                 {
-                    "id": "f5F2Smqqq7i"
-                },
-                {
                     "id": "uMeQCdzawMm"
                 },
                 {
-                    "id": "edvQMY69gYv"
+                    "id": "f5F2Smqqq7i"
                 },
                 {
                     "id": "ELojSVdME0l"
+                },
+                {
+                    "id": "edvQMY69gYv"
                 },
                 {
                     "id": "iIetlqLRH3D"
@@ -77735,28 +77735,28 @@
                     "id": "jrKuju1qNX4"
                 },
                 {
-                    "id": "hgr8wqg67Ff"
+                    "id": "sCauTqKNbj2"
                 },
                 {
                     "id": "LaTC0980n9f"
                 },
                 {
-                    "id": "sCauTqKNbj2"
-                },
-                {
-                    "id": "bJf1KzNefSa"
+                    "id": "hgr8wqg67Ff"
                 },
                 {
                     "id": "GfE2eG7SWu4"
                 },
                 {
+                    "id": "bJf1KzNefSa"
+                },
+                {
                     "id": "cy04DHjIbK3"
                 },
                 {
-                    "id": "oh8viGvJWW5"
+                    "id": "QR7XJbLgZNd"
                 },
                 {
-                    "id": "QR7XJbLgZNd"
+                    "id": "oh8viGvJWW5"
                 },
                 {
                     "id": "mUvrh13dvs6"
@@ -77849,13 +77849,13 @@
                     "id": "eJmObfh2cV6"
                 },
                 {
-                    "id": "fhspALtnsd4"
-                },
-                {
                     "id": "Ooy8J49J10b"
                 },
                 {
                     "id": "Rl7c4rjmSrk"
+                },
+                {
+                    "id": "fhspALtnsd4"
                 }
             ],
             "programStage": {
@@ -78033,10 +78033,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "fz3OVkrfMVn"
+                    "id": "Hogamlx5CeU"
                 },
                 {
-                    "id": "Hogamlx5CeU"
+                    "id": "fz3OVkrfMVn"
                 },
                 {
                     "id": "hwKCSBNd5GZ"
@@ -78048,16 +78048,16 @@
                     "id": "AEGqH2hU5Mq"
                 },
                 {
-                    "id": "eszwvdsO4lM"
-                },
-                {
                     "id": "M2WfpiOUmBX"
                 },
                 {
-                    "id": "mVzGoEyGi1d"
+                    "id": "eszwvdsO4lM"
                 },
                 {
                     "id": "RMZZgkhMxsg"
+                },
+                {
+                    "id": "mVzGoEyGi1d"
                 },
                 {
                     "id": "KUDnjcpysSa"
@@ -78072,16 +78072,16 @@
                     "id": "yAP7sj9I5A5"
                 },
                 {
-                    "id": "bWpeKTF5xCx"
-                },
-                {
                     "id": "Y2CWJCztO05"
                 },
                 {
-                    "id": "q6WGJyqypso"
+                    "id": "bWpeKTF5xCx"
                 },
                 {
                     "id": "Qou0VagPcXC"
+                },
+                {
+                    "id": "q6WGJyqypso"
                 },
                 {
                     "id": "dWxPn7gnF2a"
@@ -80541,13 +80541,13 @@
                     "id": "h9zaJ4CrvCR"
                 },
                 {
-                    "id": "hYVmDOcxKaB"
-                },
-                {
                     "id": "N8X3kJB7F0l"
                 },
                 {
                     "id": "YR0Kd2CrYQh"
+                },
+                {
+                    "id": "hYVmDOcxKaB"
                 },
                 {
                     "id": "YaGgMyqOTUn"
@@ -80606,10 +80606,10 @@
             },
             "programRuleActions": [
                 {
-                    "id": "xQFCNjw8L08"
+                    "id": "ZDKmF9LoOan"
                 },
                 {
-                    "id": "ZDKmF9LoOan"
+                    "id": "xQFCNjw8L08"
                 },
                 {
                     "id": "zXFNBgtiqwB"
@@ -82973,13 +82973,13 @@
                     "id": "v4fTsrUMEDz"
                 },
                 {
+                    "id": "t3Vgpbp9peI"
+                },
+                {
                     "id": "G98MjvOxUMT"
                 },
                 {
                     "id": "N7AiG6GpQOi"
-                },
-                {
-                    "id": "t3Vgpbp9peI"
                 }
             ],
             "programStage": {
@@ -83075,10 +83075,10 @@
                     "id": "IhWtrdzOqyv"
                 },
                 {
-                    "id": "j4gsqmK6hRH"
+                    "id": "WKx8iPuDY87"
                 },
                 {
-                    "id": "WKx8iPuDY87"
+                    "id": "j4gsqmK6hRH"
                 },
                 {
                     "id": "zVaxtlF91WS"
@@ -83087,10 +83087,10 @@
                     "id": "k7lbrCmNGYQ"
                 },
                 {
-                    "id": "lCN9VgPjhtE"
+                    "id": "RK3TAzdCs4y"
                 },
                 {
-                    "id": "RK3TAzdCs4y"
+                    "id": "lCN9VgPjhtE"
                 },
                 {
                     "id": "CIOZtJMVNrU"
@@ -83102,13 +83102,13 @@
                     "id": "VM2byz2kfCX"
                 },
                 {
+                    "id": "TC4jY269NDy"
+                },
+                {
                     "id": "alG8hBOT8i0"
                 },
                 {
                     "id": "bRWEHalVowP"
-                },
-                {
-                    "id": "TC4jY269NDy"
                 },
                 {
                     "id": "hgOWyj7wa3w"
@@ -83132,13 +83132,13 @@
                     "id": "snzOj2e3CMF"
                 },
                 {
+                    "id": "sZB0mQXwojS"
+                },
+                {
                     "id": "UixNAdn7F1R"
                 },
                 {
                     "id": "hEK99YT72rv"
-                },
-                {
-                    "id": "sZB0mQXwojS"
                 },
                 {
                     "id": "zhBgmywnsDy"
@@ -86841,35 +86841,6 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "IzO1F16Lp5L"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "wruk17jvPz6",
-                    "programStage": {
-                        "id": "ODD4lMPm0JX"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 15,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
                         "id": "trTuuZ9xWgs"
                     },
                     "displayInReports": false,
@@ -86899,13 +86870,42 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "NKd3CiQsSNH"
+                        "id": "IzO1F16Lp5L"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yb7IKPXLMCB",
+                    "id": "wruk17jvPz6",
+                    "programStage": {
+                        "id": "ODD4lMPm0JX"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 15,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "Yea5nIt5veY"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "lbem4qARv7b",
                     "programStage": {
                         "id": "ODD4lMPm0JX"
                     },
@@ -86957,13 +86957,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "Yea5nIt5veY"
+                        "id": "NKd3CiQsSNH"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "lbem4qARv7b",
+                    "id": "yb7IKPXLMCB",
                     "programStage": {
                         "id": "ODD4lMPm0JX"
                     },
@@ -87044,35 +87044,6 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "ujCxCam6D0L"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "L3juuI4NiTX",
-                    "programStage": {
-                        "id": "ODD4lMPm0JX"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 18,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
                         "id": "SgeUOuHX2ZF"
                     },
                     "displayInReports": false,
@@ -87102,13 +87073,42 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "V6RVBzCr3Kl"
+                        "id": "ujCxCam6D0L"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "TL5ivTYd2hi",
+                    "id": "L3juuI4NiTX",
+                    "programStage": {
+                        "id": "ODD4lMPm0JX"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 18,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "IMePaaj6VFF"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "g1pXdIzm7Jn",
                     "programStage": {
                         "id": "ODD4lMPm0JX"
                     },
@@ -87131,13 +87131,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "IMePaaj6VFF"
+                        "id": "V6RVBzCr3Kl"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "g1pXdIzm7Jn",
+                    "id": "TL5ivTYd2hi",
                     "programStage": {
                         "id": "ODD4lMPm0JX"
                     },
@@ -89017,13 +89017,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "P282EjwlnqS"
+                        "id": "vezbpFOckNI"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vpsm0d4pn7p",
+                    "id": "q5hiuFrfOQ1",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89046,13 +89046,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "vezbpFOckNI"
+                        "id": "P282EjwlnqS"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "q5hiuFrfOQ1",
+                    "id": "vpsm0d4pn7p",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89162,13 +89162,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "C2owWE9gaoe"
+                        "id": "oVK7axGLOks"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Ye1iIMxhcBs",
+                    "id": "KwyZGdVZA6b",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89191,13 +89191,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "oVK7axGLOks"
+                        "id": "C2owWE9gaoe"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "KwyZGdVZA6b",
+                    "id": "Ye1iIMxhcBs",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89278,13 +89278,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "qt2LpZN8Hb3"
+                        "id": "Ei5mffgPCHN"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "gpMNV6ycgHz",
+                    "id": "PfH7TorctgP",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89307,13 +89307,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "Ei5mffgPCHN"
+                        "id": "qt2LpZN8Hb3"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "PfH7TorctgP",
+                    "id": "gpMNV6ycgHz",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89597,6 +89597,35 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
+                        "id": "Gey1agRf0Kh"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "tOGgcjA42fq",
+                    "programStage": {
+                        "id": "mPdMZNWVrOQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 120,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
                         "id": "ASr2gFadIie"
                     },
                     "displayInReports": false,
@@ -89604,6 +89633,35 @@
                     "favorite": false,
                     "favorites": [],
                     "id": "viD4BckQ8Vv",
+                    "programStage": {
+                        "id": "mPdMZNWVrOQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 120,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
+                        "id": "QDa04y5c0Bf"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "aTYpl7sfcIJ",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89655,13 +89713,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "QDa04y5c0Bf"
+                        "id": "m7NKGHkiJps"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "aTYpl7sfcIJ",
+                    "id": "M6rSaKrnk7V",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89673,36 +89731,7 @@
                     },
                     "skipAnalytics": false,
                     "skipSynchronization": false,
-                    "sortOrder": 120,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
-                        "id": "Gey1agRf0Kh"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "tOGgcjA42fq",
-                    "programStage": {
-                        "id": "mPdMZNWVrOQ"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 120,
+                    "sortOrder": 121,
                     "translations": [],
                     "userAccesses": [],
                     "userGroupAccesses": []
@@ -89771,42 +89800,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "m7NKGHkiJps"
+                        "id": "FIY3uk4J7fK"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "M6rSaKrnk7V",
-                    "programStage": {
-                        "id": "mPdMZNWVrOQ"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 121,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
-                        "id": "FKxBceeFNuR"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "JlhMOX5Dp12",
+                    "id": "FakVRZ9BPvu",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89829,13 +89829,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "FIY3uk4J7fK"
+                        "id": "FKxBceeFNuR"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "FakVRZ9BPvu",
+                    "id": "JlhMOX5Dp12",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -89887,6 +89887,35 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
+                        "id": "p3L4HYkzU4o"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "xx0wBMhE3rQ",
+                    "programStage": {
+                        "id": "mPdMZNWVrOQ"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 123,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
                         "id": "pXViXBpKM6Y"
                     },
                     "displayInReports": false,
@@ -89923,35 +89952,6 @@
                     "favorite": false,
                     "favorites": [],
                     "id": "Ikoujx80Xps",
-                    "programStage": {
-                        "id": "mPdMZNWVrOQ"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 123,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
-                        "id": "p3L4HYkzU4o"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "xx0wBMhE3rQ",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90061,13 +90061,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "nBVHqtynKKg"
+                        "id": "XcVFoGVN5Bu"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vP2TSiEOssB",
+                    "id": "Kh6byRpCMxJ",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90090,13 +90090,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "XcVFoGVN5Bu"
+                        "id": "nBVHqtynKKg"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "Kh6byRpCMxJ",
+                    "id": "vP2TSiEOssB",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90206,13 +90206,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "Ec6plSlaIU2"
+                        "id": "GZ5Vqh8wdI1"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "vnBzTewpRwq",
+                    "id": "kjHUTVKV0gH",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90264,13 +90264,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "GZ5Vqh8wdI1"
+                        "id": "Ec6plSlaIU2"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "kjHUTVKV0gH",
+                    "id": "vnBzTewpRwq",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90293,13 +90293,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "dwi6P6D2iFg"
+                        "id": "BMBQRUWGC96"
                     },
-                    "displayInReports": false,
+                    "displayInReports": true,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "fzJeiAUPm8n",
+                    "id": "DBa1tJAHlmq",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90322,13 +90322,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "BMBQRUWGC96"
+                        "id": "dwi6P6D2iFg"
                     },
-                    "displayInReports": true,
+                    "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "DBa1tJAHlmq",
+                    "id": "fzJeiAUPm8n",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90467,13 +90467,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "qhbOlKrEPzT"
+                        "id": "R25K2kAAG4g"
                     },
-                    "displayInReports": true,
+                    "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "h3b03biGooj",
+                    "id": "TUwJuRDWNbs",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90496,13 +90496,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "R25K2kAAG4g"
+                        "id": "qhbOlKrEPzT"
                     },
-                    "displayInReports": false,
+                    "displayInReports": true,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "TUwJuRDWNbs",
+                    "id": "h3b03biGooj",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90612,13 +90612,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "HjZ2k3ZvpRU"
+                        "id": "DVEEyF5cpjB"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "xRUlcD1yhez",
+                    "id": "yQLEk52IBt4",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90641,13 +90641,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "DVEEyF5cpjB"
+                        "id": "HjZ2k3ZvpRU"
                     },
                     "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "yQLEk52IBt4",
+                    "id": "xRUlcD1yhez",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90728,13 +90728,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "xZfTs7RfeIU"
+                        "id": "TX30Ikr7clr"
                     },
-                    "displayInReports": false,
+                    "displayInReports": true,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "QzOlk26Jj5Q",
+                    "id": "ZbBbA3Y39Bk",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -90757,13 +90757,13 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
-                        "id": "TX30Ikr7clr"
+                        "id": "xZfTs7RfeIU"
                     },
-                    "displayInReports": true,
+                    "displayInReports": false,
                     "externalAccess": false,
                     "favorite": false,
                     "favorites": [],
-                    "id": "ZbBbA3Y39Bk",
+                    "id": "QzOlk26Jj5Q",
                     "programStage": {
                         "id": "mPdMZNWVrOQ"
                     },
@@ -92710,6 +92710,35 @@
                     "attributeValues": [],
                     "compulsory": false,
                     "dataElement": {
+                        "id": "dUeTqbQ4mEz"
+                    },
+                    "displayInReports": false,
+                    "externalAccess": false,
+                    "favorite": false,
+                    "favorites": [],
+                    "id": "crIQsA6ZuIK",
+                    "programStage": {
+                        "id": "RB3a5MXMe8g"
+                    },
+                    "renderOptionsAsRadio": false,
+                    "sharing": {
+                        "external": false,
+                        "userGroups": {},
+                        "users": {}
+                    },
+                    "skipAnalytics": false,
+                    "skipSynchronization": false,
+                    "sortOrder": 26,
+                    "translations": [],
+                    "userAccesses": [],
+                    "userGroupAccesses": []
+                },
+                {
+                    "allowFutureDate": false,
+                    "allowProvidedElsewhere": false,
+                    "attributeValues": [],
+                    "compulsory": false,
+                    "dataElement": {
                         "id": "yxz1b5sB5sg"
                     },
                     "displayInReports": false,
@@ -92746,35 +92775,6 @@
                     "favorite": false,
                     "favorites": [],
                     "id": "KtVg4iyNnyV",
-                    "programStage": {
-                        "id": "RB3a5MXMe8g"
-                    },
-                    "renderOptionsAsRadio": false,
-                    "sharing": {
-                        "external": false,
-                        "userGroups": {},
-                        "users": {}
-                    },
-                    "skipAnalytics": false,
-                    "skipSynchronization": false,
-                    "sortOrder": 26,
-                    "translations": [],
-                    "userAccesses": [],
-                    "userGroupAccesses": []
-                },
-                {
-                    "allowFutureDate": false,
-                    "allowProvidedElsewhere": false,
-                    "attributeValues": [],
-                    "compulsory": false,
-                    "dataElement": {
-                        "id": "dUeTqbQ4mEz"
-                    },
-                    "displayInReports": false,
-                    "externalAccess": false,
-                    "favorite": false,
-                    "favorites": [],
-                    "id": "crIQsA6ZuIK",
                     "programStage": {
                         "id": "RB3a5MXMe8g"
                     },
@@ -93759,6 +93759,11 @@
                         "access": "r-r-----",
                         "id": "pyu2ZlNKbzQ"
                     },
+                    "s1Q2JPVhTep": {
+                        "access": "r-r-----",
+                        "displayName": "TB CS - Lab access",
+                        "id": "s1Q2JPVhTep"
+                    },
                     "zBZXkRW0PJy": {
                         "access": "r-rw----",
                         "displayName": "TB CS - Lab data capture",
@@ -93849,7 +93854,7 @@
                 }
             ],
             "useFirstStageDuringRegistration": false,
-            "version": 100
+            "version": 101
         }
     ],
     "reports": [],
@@ -95753,6 +95758,9 @@
             "eventFilters": [
                 {
                     "assignedUsers": []
+                },
+                {
+                    "assignedUsers": []
                 }
             ],
             "id": "DDYEZxtXUoJ",
@@ -95804,6 +95812,15 @@
                 "followUp": false
             },
             "eventFilters": [
+                {
+                    "assignedUsers": [],
+                    "eventCreatedPeriod": {
+                        "periodFrom": -2000,
+                        "periodTo": 10
+                    },
+                    "eventStatus": "COMPLETED",
+                    "programStage": "UZn8sMwz7Nm"
+                },
                 {
                     "assignedUsers": [],
                     "eventCreatedPeriod": {
@@ -95881,6 +95898,11 @@
                     "pyu2ZlNKbzQ": {
                         "access": "r-r-----",
                         "id": "pyu2ZlNKbzQ"
+                    },
+                    "s1Q2JPVhTep": {
+                        "access": "r-r-----",
+                        "displayName": "TB CS - Lab access",
+                        "id": "s1Q2JPVhTep"
                     },
                     "zBZXkRW0PJy": {
                         "access": "r-rw----",
@@ -96305,6 +96327,16 @@
                     "pyu2ZlNKbzQ": {
                         "access": "r-------",
                         "id": "pyu2ZlNKbzQ"
+                    },
+                    "s1Q2JPVhTep": {
+                        "access": "r-------",
+                        "displayName": "TB CS - Lab access",
+                        "id": "s1Q2JPVhTep"
+                    },
+                    "zBZXkRW0PJy": {
+                        "access": "r-------",
+                        "displayName": "TB CS - Lab data capture",
+                        "id": "zBZXkRW0PJy"
                     }
                 },
                 "users": {}
